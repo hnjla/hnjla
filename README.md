@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hnjla
-- 👀 I’m interested in coding, art, fashion, gardening, techno music and yoga
+- 👀 I’m interested in coding, art, and fashion
 - 🌱 I’m currently learning full stack engineering
 - 💞️ I’m looking to collaborate on building beautiful coded masterpieces
 - 📫 How to reach me @hnjla
