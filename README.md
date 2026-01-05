@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hnjla
-- 👀 I’m interested in coding, art, and fashion
-- 🌱 I’m currently learning full stack engineering
-- 💞️ I’m looking to collaborate on building beautiful coded masterpieces
+- 👀 I design pixels and wardrobes
 - 📫 How to reach me @hnjla
 
 <!---
